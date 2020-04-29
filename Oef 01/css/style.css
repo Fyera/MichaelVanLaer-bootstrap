@@ -1,0 +1,9 @@
+.row {
+    border: 5px solid rebeccapurple;
+}
+
+.col {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-size: 3rem;
+}
