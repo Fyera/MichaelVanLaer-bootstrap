@@ -19,7 +19,7 @@ body {
 }
 
 .home-inner {
-    background-image: url("/img/landing.png");
+    background-image: url("./img/landing.png");
     position: fixed;
     display: table;
     top: 0;
