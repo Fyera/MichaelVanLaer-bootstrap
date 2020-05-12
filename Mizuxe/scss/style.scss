@@ -13,8 +13,11 @@ body {
         font-size: 1.4rem;
         padding-right: 1.4rem;
     }
-    .nav-link.active {
+    .nav-link {
         color: $primary !important;
+    }
+    .nav-link.active {
+        color: #D06C6C !important;
     }
 }
 
