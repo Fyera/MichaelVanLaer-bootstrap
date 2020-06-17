@@ -1,0 +1,54 @@
+#home {
+    .jumbotron {
+        padding-top: 0;
+        background-color: #fff;
+    }
+    .navbar {
+        h1 {
+            color: #fff !important;
+        }
+        .nav-link {
+            color: #fff !important;
+        }
+        a:hover {
+            color: #ff7001 !important;
+            h1 {
+                color: #ff7001 !important;
+            }
+        }
+    }
+    .custom-toggler.navbar-toggler {
+        border-color: #fff;
+    }
+}
+
+#weetjes {
+    .card:hover {
+        background: #ff7001;
+        p,
+        h3 {
+            color: #fff;
+        }
+    }
+}
+
+.bg-img {
+    background: url(../img/bird-of-paradise.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 700px;
+    position: relative;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 400;
+    color: #212529;
+}
+
+p {
+    color: #747373;
+}
