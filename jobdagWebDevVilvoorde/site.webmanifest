@@ -1,0 +1,20 @@
+{
+  "name": "Web Dev Day Vilvoorde",
+  "short_name": "WebDevDay",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "./img/favicon_jobdag_rood_txt_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/favicon_jobdag_rood_txt_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#D8535F",
+  "background_color": "#333333",
+  "display": "standalone"
+}
